@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+DEPLOYMENT.md
+test_*.py
+run_tests.py
+*.log
+__pycache__/
+*.pyc
+.env
+.env.local
