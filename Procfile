@@ -1,1 +1,1 @@
-web: python3 bot.py
+web: source venv/bin/activate && python3 bot.py
